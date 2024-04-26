@@ -1,4 +1,5 @@
 Projeto Caixa Eletrônico em Python
+
 Este projeto é um simples programa de caixa eletrônico implementado em Python. Ele simula as operações básicas de um caixa eletrônico, incluindo depósito, saque, visualização de extrato e saída do programa.
 
 O programa é baseado em um loop principal que exibe um menu de opções para o usuário. O usuário pode escolher entre depositar dinheiro, sacar dinheiro, visualizar o extrato ou sair do programa.
